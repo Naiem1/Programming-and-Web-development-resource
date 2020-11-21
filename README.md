@@ -15,19 +15,19 @@ https://www.coursera.org/learn/machine-learning </br> </br>
 কনটেন্ট মার্কেটিং শিখো coursera থেকে: https://www.coursera.org/learn/content-marketing </br>
 SEO শিখো UC Davis থেকে: https://www.coursera.org/specializations/seo  </br>  </br>
 ৪. ওয়েব ডেভেলপমেন্ট ১০০% ফ্রি: </br>
-কারো হাতে যদি ছয় মাস থেকে এক বছর সময় থাকে এবং ওয়েব ডেভেলপার হতে চায়। তাহলে আমি বলবো ফ্রি কোড ক্যাম্প এ গিয়ে ওয়েব ডেভেলপমেন্ট শিখো। ওয়াল্ডক্লাস ওয়েব ডেভেলপার হওয়ার জন্য যা যা লাগবে স্টেপ বাই স্টেপ সেই জিনিসগুলো শেখাবে। কোথাও আটকে গেলে ফোরামে গিয়ে প্রশ্ন করতে পারবে। এবং পুরা কোর্স এর জন্য তোমাকে কোন ফি দেয়া লাগবে না। 
+কারো হাতে যদি ছয় মাস থেকে এক বছর সময় থাকে এবং ওয়েব ডেভেলপার হতে চায়। তাহলে আমি বলবো ফ্রি কোড ক্যাম্প এ গিয়ে ওয়েব ডেভেলপমেন্ট শিখো। ওয়াল্ডক্লাস ওয়েব ডেভেলপার হওয়ার জন্য যা যা লাগবে স্টেপ বাই স্টেপ সেই জিনিসগুলো শেখাবে। কোথাও আটকে গেলে ফোরামে গিয়ে প্রশ্ন করতে পারবে। এবং পুরা কোর্স এর জন্য তোমাকে কোন ফি দেয়া লাগবে না।  </br>  
 https://www.freecodecamp.org/ </br> </br>
 ৫. ডাটা সায়েন্স এ মাস্টার্স ১০০% ফ্রি: </br> 
-ডাটা সায়েন্স মাস্টার্স করতে চাও। ফ্রি ফ্রি। তাহলে এই কারিকুলাম দেখে ফেলো। https://github.com/datasciencemasters/go </br>
+ডাটা সায়েন্স মাস্টার্স করতে চাও। ফ্রি ফ্রি। তাহলে এই কারিকুলাম দেখে ফেলো।  </br>  https://github.com/datasciencemasters/go </br>
 এছাড়াও OSSU এর এই রকম ডাটা সায়েন্সের কারিকুলাম এবং ফ্রি কোর্সের লিংক সিরিয়াল অনুসারে দেয়া আছে। </br> 
 https://github.com/ossu/data-science  </br> </br>
 ৬. স্টার্টআপ শিখো:  </br> 
 স্টার্টআপ এ যারা ফান্ডিং করে তাদের মধ্যে সবচেয়ে নামকরা হচ্ছে Y Combinator তারা ফ্রি একটা কোর্স করায় যেটার নাম Startup School। আমি নিজেও এই কোর্স করছিলাম।  </br>
 https://www.startupschool.org/ </br>
 এছাড়াও আরো কোর্স করতে চাইলে কোর্সের অভাব নাই। যেমন, </br> 
-কিভাবে স্টার্টআপ শুরু করবে: https://www.udacity.com/course/how-to-build-a-startup--ep245 </br>
-উদ্যেক্তা হিসেবে কিভাবে চিন্তা করবে: https://www.coursera.org/learn/entrepreneurial-thinking </br>
-বিজনেস শুরু করার সময় কিভাবে চিন্তা করবে: https://www.futurelearn.com/courses/starting-a-business-1 </br> </br>
+কিভাবে স্টার্টআপ শুরু করবে: </br>  https://www.udacity.com/course/how-to-build-a-startup--ep245 </br>
+উদ্যেক্তা হিসেবে কিভাবে চিন্তা করবে: </br>  https://www.coursera.org/learn/entrepreneurial-thinking </br>
+বিজনেস শুরু করার সময় কিভাবে চিন্তা করবে: </br>  https://www.futurelearn.com/courses/starting-a-business-1 </br> </br>
 ৭. কম্পিউটার সায়েন্স রিলেটেড আরো কিছু কোর্স  </br> 
 যারা প্রোগ্রামিং শিখতে চায় তাদের জন্য একদম প্রথম দিকেই রাখবো হার্ভার্ড এর টিচারদের এই কোর্স  </br>
 https://www.edx.org/.../cs50s-introduction-to-computer... </br>
